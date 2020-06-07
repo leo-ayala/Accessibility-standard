@@ -8,7 +8,7 @@ In this file we needed to show our ability to change an HTML file to make the we
 There was also a linking error for the 'Search Engine Optimization' that was easily remedied by creating an 'id' element that matched the 'href' tag. 
 
 **Before**
-
+```
 **After**
 ```<div id="search-engine-optimization" class="search-engine-optimization">
             <img src="../Images/search-engine-optimization.jpg" class="float-left" alt="search engine" />
