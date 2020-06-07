@@ -13,3 +13,4 @@ There was also a linking error for the 'Search Engine Optimization' that was eas
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
 ```
+**After**
