@@ -14,7 +14,8 @@ There was also a linking error for the 'Search Engine Optimization' that was eas
             <h2>Search Engine Optimization</h2>
 ```
 **After**
-```<div id="search-engine-optimization" class="search-engine-optimization">
+```ruby
+<div id="search-engine-optimization" class="search-engine-optimization">
             <img src="../Images/search-engine-optimization.jpg" class="float-left" alt="search engine" />
             <h2>Search Engine Optimization</h2>
 ```
