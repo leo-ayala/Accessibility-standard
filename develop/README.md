@@ -22,3 +22,4 @@ There was also a linking error for the 'Search Engine Optimization' that was eas
             <img src="../Images/search-engine-optimization.jpg" class="float-left" alt="search engine" />
             <h2>Search Engine Optimization</h2>
 ```
+<img src="./Images/ScreenCapture.png" alt="Horiseon" style="max-width:100%;">
