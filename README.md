@@ -2,6 +2,8 @@
 
 This homework assignment was about atlering or refactoring the code of a website for a marketing company in order to meet their accessibility standards. 
 
+file:///Users/leoayala/Desktop/projects/Homework/Week-1-Hw/Accessibility-Challenge.html
+
 # Alterations
 
 In this file we needed to show our ability to change an HTML file to make the website more user friendly and to increase the accessinility to standard that is easy for everyone. First by adding 'alt' elements to the images allows a screen reader to be able to identify what the picuture is without acutally seeing the picture. 
