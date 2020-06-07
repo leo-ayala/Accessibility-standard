@@ -7,7 +7,7 @@ https://leo-ayala.github.io/Accessibility-standard/
 
 # Alterations
 
-In this file we needed to show our ability to change an HTML file to make the website more user friendly and to increase the accessinility to standard that is easy for everyone. First by adding 'alt' elements to the images allows a screen reader to be able to identify what the picuture is without acutally seeing the picture. 
+In this file we needed to show our ability to change an HTML file to make the website more user friendly and to increase the accessibility to standard that is easy for everyone. First by adding 'alt' elements to the images allows a screen reader to be able to identify what the picuture is without acutally seeing the picture. 
 There was also a linking error for the 'Search Engine Optimization' that was easily remedied by creating an 'id' element that matched the 'href' tag. 
 
 **Before**
