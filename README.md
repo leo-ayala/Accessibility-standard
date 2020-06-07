@@ -1,8 +1,8 @@
-## Week-1-Hw
+## Week 1 Challenge
 
 This homework assignment was about atlering or refactoring the code of a website for a marketing company in order to meet their accessibility standards. 
 
-file:///Users/leoayala/Desktop/projects/Homework/Week-1-Hw/Accessibility-Challenge.html
+
 
 # Alterations
 
