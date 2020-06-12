@@ -23,4 +23,4 @@ There was also a linking error for the 'Search Engine Optimization' that was eas
             <h2>Search Engine Optimization</h2>
 ```
 # Page Outline
-<img src="./Images/ScreenCapture.png" alt="Horiseon" style="max-width:100%;">
+<img src="./develop/Images/ScreenCapture.png" alt="Horiseon" style="max-width:100%;">
